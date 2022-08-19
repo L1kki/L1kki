@@ -1,7 +1,6 @@
  I’m @L1kki
  I’m interested in Web-Developing
  I’m currently learning Html&Css
- I’m looking to collaborate on ...
  How to reach me? {email- likki.kikki.56@gmail.com)
 
 <!---
