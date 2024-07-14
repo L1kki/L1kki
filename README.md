@@ -2,7 +2,7 @@
  I’m a Web-Developer
  I know Html,Css&Js 
  I'm learning React
- Currently work as an inter at A14Technologies
+ Currently work as an intern at A14Technologies
  How to reach me? {email- likki.kikki.56@gmail.com)
 
 <!---
